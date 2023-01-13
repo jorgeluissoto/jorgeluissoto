@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jorgeluissoto
-- 👀 I’m interested in ...Frontend Development
+- 👀 I’m interested in ...FullStack Development
 - 🌱 I’m currently learning ...HTML, CSS, Javascript
 - 📫 How to reach me ...https://www.linkedin.com/in/jorge-soto-65636822b/
