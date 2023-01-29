@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jorgeluissoto
-- 👀 I’m interested in ...FullStack Development
-- 🌱 I’m currently learning ...HTML, CSS, Javascript
+- 👀 I’m interested in ...Data Analysis
+- 🌱 I’m currently learning ...SQL, Excel, and Tableau
 - 📫 How to reach me ...https://www.linkedin.com/in/jorge-soto-65636822b/
